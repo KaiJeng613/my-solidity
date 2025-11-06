@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.24+commit.e11b9ed9"
+		"version": "0.8.30+commit.73712a01"
 	},
 	"language": "Solidity",
 	"output": {
@@ -747,7 +747,7 @@
 		"compilationTarget": {
 			"contracts/PennyPenguinsNFT.sol": "PennyPenguinsNFT"
 		},
-		"evmVersion": "shanghai",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -760,11 +760,11 @@
 	},
 	"sources": {
 		"contracts/PennyPenguinsNFT.sol": {
-			"keccak256": "0x624fde902c9c3526eeb249ecf0f451a3ccaa825a638c97e665dc2592bc30385e",
+			"keccak256": "0x21d6b3ee88a9d7c682652427644542a7e822cb69962e1f853de486a3775f0890",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://18f8f7b02f7fac93120de06ff77bcacea828e8b105e393901d3eb3ffacad591e",
-				"dweb:/ipfs/QmY6PLsGc6V3vwQAJZmsksUWewhqQNF92bpFRXLq11CrAL"
+				"bzz-raw://f48037befde67cf5e56e8c36df6f6552dce9b342f64b27759d0d3c74efc6d425",
+				"dweb:/ipfs/QmQMnr2TjCh8XztUUZp4dNgoNXPAsTydiSLkR1SxU1QoaC"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v5.0/contracts/access/Ownable.sol": {

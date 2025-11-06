@@ -8,7 +8,7 @@ contract PennyPenguinsNFT is ERC721URIStorage, Ownable {
     uint256 public tokenCounter;
 
     // 👇 Pass msg.sender to Ownable() as required by OZ v5.x
-    constructor() ERC721("PennyPenguinsNFT", "PPNFT") Ownable(msg.sender) {
+    constructor() ERC721("PennyPenguinsNFT", "PNY") Ownable(msg.sender) {
         tokenCounter = 0;
     }
 
